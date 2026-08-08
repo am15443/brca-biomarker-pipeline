@@ -1,0 +1,7 @@
+raw/
+parquet/
+logs/
+results/
+*.gz
+*.png
+__pycache__/
